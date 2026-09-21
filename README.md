@@ -36,7 +36,7 @@ Este repositorio contiene la implementación de la clase `LibroCalificaciones` e
 
 1. Clonar el repositorio:
    ```
-   git clone <url-del-repositorio>
+   [git clone <url-del-repositorio>](https://github.com/Lyrics354/Asignaci-n-en-Clases.git)
    ```
 2. Abrir la solución en Visual Studio (o Visual Studio Code con la extensión de C#/.NET).
 3. Compilar y ejecutar el proyecto:
