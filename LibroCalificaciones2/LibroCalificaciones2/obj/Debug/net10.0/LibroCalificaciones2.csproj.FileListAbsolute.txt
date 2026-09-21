@@ -1,0 +1,15 @@
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfoInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfo.cs
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.deps.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.runtimeconfig.json
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\refint\LibroCalificaciones2.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.genruntimeconfig.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\ref\LibroCalificaciones2.dll
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\LibroCalificaciones2\LibroCalificaciones2\obj\Debug\net10.0\LibroCal.A8627364.Up2Date
