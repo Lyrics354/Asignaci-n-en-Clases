@@ -1,4 +1,4 @@
-# Laboratorio # 5
+# Asignación en clases (Libreta de Calificaciones)
 
 📅 Fecha: 21/09/2026
 
