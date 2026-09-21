@@ -53,5 +53,7 @@ Este repositorio contiene la implementación de la clase `LibroCalificaciones` e
 
 ## 🔗 Referencias
 -Hoja impresa proporcionado por el docente
+
 -Plataforma virtual UTP: https://virtual.utp.ac.pa/
+
 -Sección de entrega en la plataforma: https://virtual.utp.ac.pa/moodle/mod/assign/view.php?id=295035
