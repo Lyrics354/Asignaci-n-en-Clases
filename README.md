@@ -22,9 +22,6 @@ Este repositorio contiene la implementación de la clase `LibroCalificaciones` e
 ## 🖥️ Capturas de Pantalla y Problemas
 
 ### Interfaz Principal
-
-*(Aquí se incluye la imagen de la salida de la consola)*
-
 - **Problema 1 — Promedio con repetición controlada por contador (`LibroCalificaciones.cs` / `PruebaLibroCalificaciones.cs`):** se crea un objeto `LibroCalificaciones` pasando el nombre del curso al constructor. El método `MostrarMensaje()` saluda al usuario y `DeterminarPromedioClase()` solicita exactamente 10 calificaciones mediante un ciclo `while (contadorCalif <= 10)`, acumula el total y calcula el promedio (división entera). Ejemplo de salida:
 <img width="1460" height="547" alt="image" src="https://github.com/user-attachments/assets/641071c2-a67a-40fe-aa2f-4aaaadf2d236" />
 
